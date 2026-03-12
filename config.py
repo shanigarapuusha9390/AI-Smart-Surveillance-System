@@ -13,7 +13,10 @@ RESTRICTED_ZONE = [
     (640, 480),
     (450, 480)
 ]
+import os
 
-SENDER_EMAIL = "shanigarapuusha9390@gmail.com"
-SENDER_PASSWORD = "smin ariv tzid kwlo"
-RECEIVER_EMAIL = "shanigarapuusha9390@gmail.com"
+FPS = 20
+
+SENDER_EMAIL = os.getenv("SENDER_EMAIL")
+SENDER_PASSWORD = os.getenv("SENDER_PASSWORD")
+RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL")

@@ -1,0 +1,19 @@
+CONFIDENCE_THRESHOLD = 0.4
+
+FPS = 30
+BUFFER_SECONDS = 10
+
+FIGHT_SPEED_THRESHOLD = 60
+FIGHT_DISTANCE_THRESHOLD = 180
+FIGHT_MIN_CONSECUTIVE_FRAMES = 8
+
+RESTRICTED_ZONE = [
+    (450, 300),
+    (640, 300),
+    (640, 480),
+    (450, 480)
+]
+
+SENDER_EMAIL = "shanigarapuusha9390@gmail.com"
+SENDER_PASSWORD = "smin ariv tzid kwlo"
+RECEIVER_EMAIL = "shanigarapuusha9390@gmail.com"

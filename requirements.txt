@@ -1,0 +1,8 @@
+opencv-python
+numpy
+ultralytics
+deep-sort-realtime
+fer
+tensorflow
+pyttsx3
+python-dotenv
